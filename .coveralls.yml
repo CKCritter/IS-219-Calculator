@@ -1,1 +1,2 @@
 service_name: travis-pro
+repo_token: A2v0Qz4jXJJwMDnYibCOZTueeMzuGtxDo #Coveralls maintains that publishing the token is a bad idea but im more concerned with seeing if this is why it won't run
