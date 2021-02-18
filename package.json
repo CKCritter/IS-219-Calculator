@@ -4,7 +4,10 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node src/calculator.js",
+    "coverage": "jest --coverage",
+    "coveralls": "jest --coverage"
   },
   "keywords": [],
   "author": "Charles Crider",
