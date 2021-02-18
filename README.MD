@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/CKCritter/IS-219-Calculator.svg?branch=master)](https://travis-ci.org/CKCritter/IS-219-Calculator)
